@@ -43,7 +43,7 @@ For not existing abbreviations, one can use the `customab` function by supplying
 #customab(("a.", "b.", "c."))
 ```
 
-## You like this template? Consider supporting!
+## You like this package? Consider supporting!
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://coff.ee/robert.richter)
 
