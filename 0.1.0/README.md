@@ -22,7 +22,7 @@ The following abbreviations are implemented:
 
 | Abbreviation | Long Form | Function | Language |
 | -------------|-----------|----------|----------|
-| e.g. | exempli gratia | #eg | Latin |
+| e. g. | exempli gratia | #eg | Latin |
 | et al. | et alia | #etal | Latin |
 | i. e. | id est | #ie | Latin |
 | per se | per se | #perse | Latin |
